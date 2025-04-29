@@ -1,0 +1,14 @@
+p {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.5;   
+}
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+  }
+  input {
+    padding: 0.5rem;
+    width: 300px;
+    margin-bottom: 1rem;
+  }
